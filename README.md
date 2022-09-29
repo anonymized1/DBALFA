@@ -6,8 +6,7 @@ This repository contains PyTorch implementation of the paper: Detecting Backdoor
 
 ## Content
 The repository contains one jupyter notebook (`Ours_CIFAR10-ResNet18.IPYNB`) that contains code and instructions on how to re-produce the experiments reported in the paper for the benchmark under the Input-aware Dynamic backdoor attack (IAD). 
-Also, the checkpoints of the attacked DNNs and their corresponding poisoned datasets are provided into two separate folders: `checkpoints` and `data`.
-Models modified to extract intermediate features are available in the folder `my_models`.
+Also, models modified to extract intermediate features are available in the folder `my_models`.
 
 
 ## Data sets
