@@ -16,8 +16,8 @@ After downloading [GTSRB](https://ieeexplore.ieee.org/document/6033395/), please
 
 
 ## Poisoned Datasets and Pretrained Attacked DNNs
-Please download poisoned datasets via this link (https://drive.google.com/drive/folders/1sc8StrbYINFP1M7v3DsG44DJ671JbkVm?usp=sharing) and save them in the folder data/poisoned_testsets.
-Also, please download pretrained attacked DNNs via this link (https://drive.google.com/drive/folders/1cauZJFm8zBOpWQuf3G--d-10f-87GrHz?usp=sharing) and save them in the folder checkpoints.
+Please download poisoned datasets via this link (https://www.dropbox.com/sh/02g7ys181u7yhlx/AABZSgKSYxgDF8DtystO31Sla?dl=0) and save them in the folder data/poisoned_testsets.
+Also, please download pretrained attacked DNNs via this link (https://www.dropbox.com/sh/ilwdvone2fl5c2d/AADpmdjgKKq175Nj6Oj-bK8ma?dl=0) and save them in the folder checkpoints.
 ## Dependencies
 
 Required packages and libraries are in `requirements.txt`
