@@ -1,4 +1,4 @@
-# DBALFA: Detecting Backdoor Attacks via Layer-wise Features Analysis
+# Detecting Backdoor Attacks via Layer-wise Features Analysis
 This repository contains PyTorch implementation of the paper: Detecting Backdoor Attacks via Layer-wise Features Analysis.
 
 ## Paper 
