@@ -9,7 +9,6 @@ The repository contains one jupyter notebook (`Ours_CIFAR10-ResNet18.IPYNB`) tha
 Also, the checkpoints of the attacked DNNs and their corresponding poisoned datasets are provided into two separate folders: `checkpoints` and `data`.
 Models modified to extract intermediate features are available in the folder `my_models`.
 
-**DISCLAIMER:** We used the toolbox ([BackdoorBox] (https://github.com/THUYimingLi/BackdoorBox)) for conducting all backdoor attacks. 
 
 ## Data sets
 [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) will be automatically downloaded.
