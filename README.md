@@ -16,6 +16,10 @@ Models modified to extract intermediate features are available in the folder `my
 However, [GTSRB](https://ieeexplore.ieee.org/document/6033395/) can be manually downloaded using this [link](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/). 
 After downloading [GTSRB](https://ieeexplore.ieee.org/document/6033395/), please save in the folder named 'data' with two subfolders each 'train' and 'test.
 
+
+## Poisoned Datasets and Pretrained Attacked DNNs
+Please download poisoned datasets via this link[] and save them in the folder data/poisoned_testsets.
+Also, please download pretrained attacked DNNs via this link[] and save them in the folder checkpoints.
 ## Dependencies
 
 Required packages and libraries are in `requirements.txt`
