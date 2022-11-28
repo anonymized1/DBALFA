@@ -6,7 +6,6 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-
 class Block(nn.Module):
     '''expand + depthwise + pointwise'''
     def __init__(self, in_planes, out_planes, expansion, stride, norm_layer):
@@ -94,7 +93,6 @@ class MobileNetV2(nn.Module):
             ftrs.append(ftr)
         
         return out, ftrs
-
 
 def test():
     net = MobileNetV2()
