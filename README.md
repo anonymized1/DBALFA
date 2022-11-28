@@ -1,8 +1,8 @@
-# Detecting Backdoor Attacks via Layer-wise Feature Analysis
-This repository contains PyTorch implementation of the paper: Detecting Backdoor Attacks via Layer-wise Feature Analysis.
+# Defending Against Backdoor Attacks by Layer-wise Feature Analysis
+This repository contains PyTorch implementation of the paper: Defending Against Backdoor Attacks by Layer-wise Feature Analysis.
 
 ## Paper 
-[Detecting Backdoor Attacks via Layer-wise Feature Analysis]()
+[Defending Against Backdoor Attacks by Layer-wise Feature Analysis]()
 
 ## Content
 The repository contains one jupyter notebook (`Ours_CIFAR10-ResNet18.IPYNB`) that contains code and instructions on how to re-produce the experiments reported in the paper for the benchmark under the Input-aware Dynamic backdoor attack (IAD). 
