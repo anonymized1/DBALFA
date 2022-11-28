@@ -12,7 +12,6 @@ from torchvision.datasets import DatasetFolder, MNIST, CIFAR10
 
 from ..utils import Log
 
-
 support_list = (
     DatasetFolder,
     MNIST,
