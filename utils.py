@@ -3,9 +3,7 @@ from torch.utils.data.dataloader import DataLoader
 import numpy as np
 
 def get_features(model, dataset, device = 'cuda', layers = None):
-    
     data_loader = DataLoader(dataset, batch_size = 128, shuffle = False)
-
     model.to(device)
     model.eval()
     ftrs_dict = None
